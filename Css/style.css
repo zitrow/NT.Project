@@ -1,0 +1,48 @@
+@font-face {
+    font-family: vazir;
+    src: url(../vazir/Vazir-Thin.ttf);
+}
+@font-face {
+    font-family: bold;
+    src: url(../vazir/Vazir-Bold.ttf);
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-color: rgba(59, 42, 143, 0.226);
+    background: url(../Img/1st-section.jpg); opacity: 1;
+    
+}
+    h1 {
+        padding: 30px; text-align: center; color: #2E4053;
+        font-family: vazir;
+        text-shadow: 1px 2px 10px;
+    }
+    .header {
+        font-size: 150px; background-color: rgba(160, 95, 95, 0); display: inline-block;
+    }
+    .Register {
+        background-color: rgba(100, 148, 237, 0.486); padding: 5px; margin: 10px; border: 3px rgba(25, 13, 34, 0.1) solid;
+        font-family: bold;
+        
+    }
+    .Login {
+        background-color: rgba(100, 237, 207, 0.452); padding: 5px; margin: 20px; border: 3px rgba(25, 13, 34, 0.1) solid;
+        font-family: bold;
+        
+    }
+    .AboutNT {
+        background-color: rgba(237, 100, 164, 0.432); padding: 5px; margin: 20px; border: 3px rgba(25, 13, 34, 0.1) solid;
+        font-family: bold;
+        
+    }
+    .Contact {
+        background-color: rgba(184, 237, 100, 0.445); padding: 5px; margin: 20px; border: 3px rgba(25, 13, 34, 0.1) solid;
+        font-family: bold;
+        
+    }
+    p {
+        color: aliceblue;
+        text-align: center;
+    }    
